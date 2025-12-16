@@ -1,6 +1,6 @@
 AI-ML-Assignment-5-Simple-RAG
 Oliver Warlick
-YouTube Video: 
+YouTube Video: https://youtu.be/R91Jpyc3A2M
 
 Generation LLM used: Simulated LLM
 Purpose:Receives the augmented prompt (query + context) and synthesizes the final, coherent answer.
